@@ -19,6 +19,5 @@
 <div> 
 
  
-  ![Snake animation](https://github.com/Luiz-Eduardo-Alverga/Luiz-Eduardo-Alverga//blob/output/github-contribution-grid-snake.svg)
-
+  
 </div>
